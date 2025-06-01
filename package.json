@@ -1,1 +1,12 @@
-
+{
+  "name": "ukmla-ai-api",
+  "version": "1.0.0",
+  "description": "AI functions for UKMLA question generation and evaluation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.0"
+  }
+}
